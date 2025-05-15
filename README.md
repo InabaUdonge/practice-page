@@ -23,4 +23,4 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/InabaUdonge?tab=repositories
+   git clone https://github.com/InabaUdonge/practice-page
